@@ -1,5 +1,0 @@
-openai
-streamlit
-dotenv
-os
-shelve
